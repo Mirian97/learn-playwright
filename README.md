@@ -1,3 +1,5 @@
+<img src="./docs/playwright.jpg" alt="Playwright Logo" style="background-color: #FFF; padding: 10px; margin: 0 auto;" />
+
 # Playwright Project
 
 This repository contains automated tests written using [Playwright](https://playwright.dev/).

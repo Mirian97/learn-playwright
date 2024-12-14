@@ -1,6 +1,6 @@
 <img src="./docs/playwright.jpg" alt="Playwright Logo" style="background-color: #FFF; padding: 10px; margin: 0 auto;" />
 
-# Playwright Project
+# Learn Playwright
 
 This repository contains automated tests written using [Playwright](https://playwright.dev/).
 Playwright is considered one of the best solutions for end-to-end (E2E) testing due to the following key features:
